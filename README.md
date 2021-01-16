@@ -137,5 +137,5 @@ cd math-prog/cpo-dataset/machine-learn/WDBC/
 
 ### we would be using sklearn, statsmodel for analysis.
 
-### The metrics used to evaluate the model is Confusion model
+### The metrics used to evaluate the model is Confusion matrix
 - Based on confusion matrix we will compute accuracy, sensitivity, specificity etc for model evaluation
