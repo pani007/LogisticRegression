@@ -1,1 +1,3 @@
-# LogisticRegression
+# LogisticRegression Breast cancer detection
+
+- as
